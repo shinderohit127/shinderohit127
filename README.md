@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7124
-Fork on GitHub
-1364
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate frontend developer from India. Love to explore new technologies especially blockchain technologies.</h3>
 

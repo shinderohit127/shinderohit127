@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shinderohit127@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JhqaVdz-RnxFsPkTPO22ZhrHVdEsYBEu/view?usp=sharing](https://drive.google.com/file/d/1JhqaVdz-RnxFsPkTPO22ZhrHVdEsYBEu/view?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1gKokexv0rEoBm8N3WAe8WZCtLR34FhSh/view?usp=sharing)
 
 - ⚡ Fun fact **I think the chicken came first**
 

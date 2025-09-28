@@ -3,6 +3,9 @@
 #### A Computer Science Grad Student by day ☼ and a Builder of Ideas by night ☾  
 
 Master’s in Computer Science at [Arizona State University](https://www.asu.edu/);<br>  
+
+Ex-[Barclays](https://home.barclays/);
+
 Certified **Pega System Architect (2024)** and **McKinsey Forward Program Graduate (2025)**;<br>  
 Exploring payments, financial systems, and emerging tech in web and blockchain.  
 
